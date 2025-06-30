@@ -9,16 +9,10 @@
 
 Is a simple c++ video player
 
-# Usage
-
-```
-
-```
-
 ## Dependencies
 
 [JustBuildIt](https://github.com/katusek1235/JustBuildIt)
-[FFmpeg](https://ffmpeg.org)
+[OpenCV](https://opencv.org/)
 
 ## Quick Start
 
