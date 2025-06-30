@@ -18,6 +18,7 @@ Is a simple c++ video player
 ## Dependencies
 
 [JustBuildIt](https://github.com/katusek1235/JustBuildIt)
+[FFmpeg](https://ffmpeg.org)
 
 ## Quick Start
 
